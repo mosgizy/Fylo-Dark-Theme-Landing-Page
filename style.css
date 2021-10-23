@@ -174,8 +174,7 @@ nav ul li a:hover {
 
 @media screen and (min-width:768px) and (max-width:2100px) {
     header {
-        /* background-image: url(images/bg-curvy-desktop.svg), linear-gradient(var(--dark-blue-intro) 0 98%, var(--dark-blue-main) 98% 100%); */
-        background-image: url(images/bg-curvy-desktop.svg), linear-gradient(red 0 50%, white 50% 100%);
+        background-image: url(images/bg-curvy-desktop.svg), linear-gradient(var(--dark-blue-intro) 0 98%, var(--dark-blue-main) 98% 100%);
         background-position-y: bottom -1.5%;
         background-size: calc(120vh 210vw);
     }
