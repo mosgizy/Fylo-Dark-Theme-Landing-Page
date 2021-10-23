@@ -369,12 +369,18 @@ nav ul li a:hover {
     z-index: -1;
 }
 
+@media only screen and (min-width:768px){
+    .team-wrapper::before{
+        transform: scale(.7);
+    }
+}
+
 .team-wrapper .team {
     background-color: var(--dark-blue-testimonials);
     box-shadow: 3px 5px 5px var(--dark-blue-testimonials);
     border-radius: .5rem;
     padding: 2.5rem 2rem 1.5rem 2rem;
-    font-size: clamp(.7rem, .5vw + .7rem, 1.3rem);
+    /* font-size: clamp(.7rem, .5vw + .7rem, 1.3rem); */
     max-width: 50ch;
 }
 
@@ -417,7 +423,7 @@ nav ul li a:hover {
     }
 
     .bottom-wrapper {
-        max-width: 1600px;
+        max-width: 1200px;
         margin: 0 auto;
     }
 }
@@ -472,7 +478,7 @@ nav ul li a:hover {
 
 @media only screen and (min-width:768px) {
     .newsletter {
-        max-width: 960px;
+        max-width: 768px;
     }
 
     .newsletter p {
