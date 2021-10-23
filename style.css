@@ -202,7 +202,7 @@ nav ul li a:hover {
     }
 
     .header-content h1 {
-        font-size: 1.5rem;
+        font-size: 1.85rem;
     }
 
     .header-content p {
@@ -233,14 +233,14 @@ nav ul li a:hover {
 @media only screen and (min-width:768px) {
     main {
         max-width: 1420px;
-        margin: 0 auto;
+        margin: 6rem auto;
     }
 
     .service {
         flex-direction: row;
         flex-wrap: wrap;
         gap: .5rem;
-        max-width: 960px;
+        max-width: 990px;
     }
 
     .service>* {
