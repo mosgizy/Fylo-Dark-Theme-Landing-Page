@@ -345,7 +345,7 @@ nav ul li a:hover {
 }
 
 .team-wrapper {
-    margin-block-start: 4.5rem;
+    margin-block-start: 2rem;
     gap: 2.5rem;
     position: relative;
     z-index: 1;
