@@ -2,6 +2,8 @@
 
 ![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
+https://mosgizy.github.io/Fylo-Dark-Theme-Landing-Page/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
