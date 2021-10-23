@@ -211,15 +211,14 @@ nav ul li a:hover {
     }
 }
 
-@media screen and (min-width:1200px) {
+/* @media screen and (min-width:1200px) {
     header {
-        background-image: url(images/bg-curvy-desktop.svg);
-        background-position: 0;
-        background-position-y: bottom -15%;
+        background: url(images/bg-curvy-desktop.svg) no-repeat center top 46em;
+        background-size: 210vh;
         padding-block-end: 4rem;
         margin-bottom: 0;
     }
-}
+} */
 
 /* main section style*/
 
