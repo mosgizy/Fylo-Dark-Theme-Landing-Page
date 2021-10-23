@@ -413,7 +413,7 @@ nav ul li a:hover {
 
 @media only screen and (min-width:768px) {
     .bottom {
-        margin-top: 12rem;
+        margin-top: 8rem;
     }
 
     .bottom-wrapper {
@@ -499,11 +499,11 @@ nav ul li a:hover {
 
 .footer {
     /* position: relative; */
-    padding-top: 17.5rem;
+    padding-top: 14.5rem;
 }
 
 .footer-content-wrapper {
-    margin-block-start: 4.5rem;
+    margin-block-start: 2.5rem;
 }
 
 .address {
